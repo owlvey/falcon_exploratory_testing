@@ -40,7 +40,6 @@ class TestUsersRepository(unittest.TestCase):
                     report = res.json()
                     self.print(report)
 
-
 def main():
     unittest.main()
 
